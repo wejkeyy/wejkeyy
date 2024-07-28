@@ -1,4 +1,3 @@
 # Well, hello
 
-Yes, this is my github. Im not that active, (thats why this is my 25th account on GitHub) I just wanted to create github and not delete it in few days. You can check everything that is here.
-But check [website](https://wejkeyy.github.io)
+I'm not a Developer and somehow I don't like to "code", but on [this](https://wejkeyy.github.io) site you can find things I create. It's stuff I use sometimes so there won't be much there.
