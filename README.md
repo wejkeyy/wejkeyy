@@ -1,7 +1,6 @@
 # Well, hello
 
-I'm not a developer or anything so I didn't bother to "optimize" a few things AI to make it look better. (Of course not everything hey..)
-But so what? As long as it works it's good.
+I'm not a developer or anything like that. I've "optimized" a few things with AI to make it look better. (Of course, not everything hey..) As long as it works, it's good.
 
 You can check [website](https://wejkeyy.github.io) and other repos, like [this](https://github.com/wejkeyy/wemcPlugins)
 
@@ -13,3 +12,5 @@ if its "risk", but i must put it there. Thanks :)
 Discord server:
 
 ![](https://dcbadge.limes.pink/api/server/https://discord.gg/VFm85ypmHh)
+
+Server primarily intended for Czech, Slovak and Polish people
