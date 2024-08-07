@@ -9,8 +9,6 @@ Im not here that active so updates to plugins may take a while. But the latest v
 versions are not tested but it should work on 1.20.3, 1.20.4, 1.20.5, 1.20.6. And maybe a 1.18.x and 1.19.x. You can try it. But *use it at your own risk*. But I really dont know
 if its "risk", but i must put it there. Thanks :)
 
-Discord server:
-
-![](https://dcbadge.limes.pink/api/server/https://discord.gg/VFm85ypmHh)
+[Discord server](https://discord.gg/VFm85ypmHh)
 
 Server primarily intended for Czech, Slovak and Polish people
